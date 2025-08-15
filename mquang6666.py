@@ -1417,5 +1417,3 @@ def chay():
 
 # Chạy chương trình
 chay()
-hạy chương trình
-chay()
