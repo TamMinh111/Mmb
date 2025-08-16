@@ -1,7 +1,3 @@
-# bo la tduong 
-# xoa lam Cho
-# sua code lam cho
-
 import requests, sys, os, time
 from time import sleep
 
